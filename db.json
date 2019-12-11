@@ -1,6 +1,6 @@
 {
 	"salesDetails": [
-		{
+		
                     "id": [
                         {
                             "value": "123",
@@ -118,8 +118,8 @@
                             }
                         ]
                     }
-                },
-		{
+                ,
+		
                     "id": [
                         {
                             "value": "UK2",
@@ -237,7 +237,7 @@
                             }
                         ]
                     }
-                }
+                
 	],
 	"profile": {
 		"name": "typicode"
