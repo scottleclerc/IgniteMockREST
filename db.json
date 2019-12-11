@@ -1,7 +1,127 @@
 {
 	"salesDetails": [
 		{
-		"id":"UK1"},
+		"id":"UK1",
+{
+                    "id": [
+                        {
+                            "value": "123",
+                            "schemeName": "OpportunityReferenceId"
+                        }
+                    ],
+                    "details": {
+                        "tierCode": "Local_Bid_Tier",
+                        "contractTermMonth": "4"
+                    },
+                    "roles": {
+                        "holder": {
+                            "organisation": {
+                                "id": [
+                                    {
+                                        "value": "123",
+                                        "schemeName": "TradeRegistrationNumber"
+                                    },
+                                    {
+                                        "value": "123",
+                                        "schemeName": "CorporateId"
+                                    },
+                                    {
+                                        "value": "123",
+                                        "schemeName": "AccountHolderId"
+                                    }
+                                ],
+                                "contactPoint": [
+                                    {
+                                        "postal": {
+                                            "street": "Station Approach",
+                                            "town": "London",
+                                            "country": "United Kingdom",
+                                            "county": "Surrey",
+                                            "postCode": "SW4 2AD"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "parts": {
+                        "salesAccount": {
+                            "name": "Account Name"
+                        },
+                        "marketSegment": [
+                            {
+                                "name": "market segment name"
+                            }
+                        ],
+                        "approval": [
+                            {
+                                "name": "John Smith"
+                            }
+                        ],
+                        "salesQuote": [
+                            {
+                                "id": [
+                                    {
+                                        "value": "123",
+                                        "schemeName": "SalesQuoteId"
+                                    }
+                                ],
+                                "specification": {
+                                    "characteristicsValue": [
+                                        {
+                                            "characteristicName": "RevisionNumber",
+                                            "value": "3566464"
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "revenue": [
+                            {
+                                "name": "UK",
+                                "totalContractValue": {
+                                    "value": "123.00",
+                                    "currencyID": "EUR"
+                                }
+                            }
+                        ],
+                        "specification": [
+                            {
+                                "characteristicsValue": [
+                                    {
+                                        "characteristicName": "TargetSpend",
+                                        "value": "characteristic value"
+                                    },
+                                    {
+                                        "characteristicName": "TotalSubsidy",
+                                        "value": "characteristic value"
+                                    },
+                                    {
+                                        "characteristicName": "CommercialType",
+                                        "value": "characteristic value"
+                                    },
+                                    {
+                                        "characteristicName": "BespokeQuote",
+                                        "value": "characteristic value"
+                                    },
+                                    {
+                                        "characteristicName": "CashBonus",
+                                        "value": "characteristic value"
+                                    },
+                                    {
+                                        "characteristicName": "InnovationFund",
+                                        "value": "characteristic value"
+                                    },
+                                    {
+                                        "characteristicName": "TechFund",
+                                        "value": "characteristic value"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+		},
 		{
 		"id":"UK2"}
 	],
