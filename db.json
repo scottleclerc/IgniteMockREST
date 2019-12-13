@@ -1,8 +1,6 @@
 {
 	"salesDetails": [
-		{"ref": "UK1",
-		
-			"id": [
+		{"id": [
 				{
 					"value": "UK1",
 					"schemeName": "OpportunityReferenceId"
@@ -119,11 +117,8 @@
 					}
 				]
 			}
-		
 		},
-		{"ref": "UK2",
-		
-			"id": [
+		{"id": [
 				{
 					"value": "UK2",
 					"schemeName": "OpportunityReferenceId"
